@@ -4,16 +4,22 @@ This is a basic token contract implemented in Solidity. It allows for token mint
 
 # Contract Details
 
-Contract name: MyToken
+Contract name: MyToken1
+
 License: MIT
-Solidity version: 0.8.18
+
+Solidity version: 0.8.25
 
 # Contract Variables
 
 owner: The address of the contract owner.
+
 tokenName: The name of the token.
+
 tokenSymbol: The symbol or abbreviation of the token.
+
 totalSupply: The total supply of the token.
+
 balances: A mapping that stores the token balances of addresses.
 
 # Functions
